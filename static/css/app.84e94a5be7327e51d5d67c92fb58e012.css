@@ -3788,6 +3788,10 @@ h1 {
   font-size: 36px
 }
 
+h2 {
+  font-size: 30px
+}
+
 h3 {
   font-size: 24px
 }
@@ -9291,7 +9295,7 @@ h2[data-v-6a387b4c] {
   font-size: 25px
 }
 
-article[data-v-03ea5990] {
+article[data-v-17e68cb8] {
   display: inline-block;
   padding: 2%;
   margin: 0 3% 3%;
@@ -9300,25 +9304,25 @@ article[data-v-03ea5990] {
   text-align: left
 }
 
-p[data-v-03ea5990] {
+p[data-v-17e68cb8] {
   margin: 1% 0;
   font-size: 20px
 }
 
-h2[data-v-03ea5990] {
+h2[data-v-17e68cb8] {
   font-family: \\6625\590F\79CB\51AC\2161 B;
   color: #fff;
   margin: 1%;
   font-size: 25px
 }
 
-ul[data-v-03ea5990] {
+ul[data-v-17e68cb8] {
   margin: 0;
   padding: 0;
   list-style: none
 }
 
-li[data-v-03ea5990] {
+li[data-v-17e68cb8] {
   margin: 3% 0
 }
 
@@ -9343,35 +9347,7 @@ h2[data-v-07db9d15] {
   font-size: 25px
 }
 
-h2 {
-  font-size: 30px
-}
-
-h2,
-h3 {
-  margin-top: 0;
-  margin-bottom: 0
-}
-
-.subtitle,
-h3 {
-  font-size: 20px
-}
-
-.subtitle {
-  color: #fff;
-  padding-bottom: 1%
-}
-
-.tweet[data-v-60f19214] {
-  text-align: center
-}
-
-.contents[data-v-60f19214] {
-  display: inline-block
-}
-
-article[data-v-60f19214] {
+article[data-v-3f114e46] {
   display: inline-block;
   padding: 2%;
   margin: 0 3% 3%;
@@ -9380,19 +9356,55 @@ article[data-v-60f19214] {
   text-align: left
 }
 
-h2[data-v-60f19214] {
+h2[data-v-3f114e46] {
+  color: #fff;
+  margin: 1%;
+  font-size: 25px
+}
+
+h2[data-v-3f114e46],
+h3[data-v-3f114e46] {
+  font-family: \\6625\590F\79CB\51AC\2161 B
+}
+
+h3[data-v-3f114e46] {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px
+}
+
+p[data-v-3f114e46] {
+  margin: 1% 0;
+  font-size: 20px
+}
+
+li[data-v-3f114e46] {
+  list-style: none;
+  font-size: 20px
+}
+
+article[data-v-a9441730] {
+  display: inline-block;
+  padding: 2%;
+  margin: 0 3% 3%;
+  background-color: hsla(0, 0%, 100%, .8);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+  text-align: left
+}
+
+h2[data-v-a9441730] {
   font-family: \\6625\590F\79CB\51AC\2161 B;
   color: #fff;
   margin: 1%;
   font-size: 25px
 }
 
-p[data-v-60f19214] {
+p[data-v-a9441730] {
   margin: 1% 0;
   font-size: 20px
 }
 
-li[data-v-60f19214] {
+li[data-v-a9441730] {
   list-style: none;
   font-size: 20px
 }
