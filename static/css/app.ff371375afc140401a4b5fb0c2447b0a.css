@@ -9383,29 +9383,37 @@ li[data-v-3f114e46] {
   font-size: 20px
 }
 
-article[data-v-d95ec2ce] {
-  width: 90%;
+.parentcontents[data-v-116cac63] {
+  text-align: center
+}
+
+.childcontents[data-v-116cac63],
+article[data-v-116cac63] {
   display: inline-block;
-  padding: 2%;
-  margin: 0 3% 3%;
-  background-color: hsla(0, 0%, 100%, .8);
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
   text-align: left
 }
 
-h2[data-v-d95ec2ce] {
+article[data-v-116cac63] {
+  width: 90%;
+  padding: 2%;
+  margin: 0 3% 3%;
+  background-color: hsla(0, 0%, 100%, .8);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, .5)
+}
+
+h2[data-v-116cac63] {
   font-family: \\6625\590F\79CB\51AC\2161 B;
   color: #fff;
   margin: 1%;
   font-size: 25px
 }
 
-p[data-v-d95ec2ce] {
+p[data-v-116cac63] {
   margin: 1% 0;
   font-size: 20px
 }
 
-li[data-v-d95ec2ce] {
+li[data-v-116cac63] {
   list-style: none;
   font-size: 20px
 }
