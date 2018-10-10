@@ -1,3 +1,5 @@
-# web
+# OkomeWeb
 
-> OkomeWeb (A Vue.js project)
+> A Vue.js project
+
+(c)2018 okomeee
