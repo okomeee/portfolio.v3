@@ -2,4 +2,4 @@
 
 > A Vue.js project
 
-(c)2018 okomeee
+&copy;2018 okomeee
