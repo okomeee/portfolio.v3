@@ -1,5 +1,2 @@
-# OkomeWeb
-
-> A Vue.js project
-
+# okome
 &copy;2018 okomeee
