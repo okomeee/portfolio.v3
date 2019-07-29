@@ -8,11 +8,10 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>okome | NotFound</title>
   <script>
-    let segmentCount = 1;
     let l = window.location;
     let port = l.port ? ':' + l.port : ''
     l.replace(
-      `${l.protocol}//${l.hostname}${port}/?p=${l.pathname.split('/').slice(0, 1 + segmentCount)[1]}`
+      `${l.protocol}//${l.hostname}${port}/?p=${l.pathname.split('/').slice(0, 2)[1]}`
     )
   </script>
 </head>
